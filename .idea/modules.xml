@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 绪论/01 绪论.iml" filepath="$PROJECT_DIR$/01 绪论/01 绪论.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.2  顺序表/02.2  顺序表.iml" filepath="$PROJECT_DIR$/02.2  顺序表/02.2  顺序表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3.2  单链表/02.3.2  单链表.iml" filepath="$PROJECT_DIR$/02.3.2  单链表/02.3.2  单链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3.2  循环单链表/02.3.2  循环单链表.iml" filepath="$PROJECT_DIR$/02.3.2  循环单链表/02.3.2  循环单链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.3.3  循环双链表/02.3.3  循环双链表.iml" filepath="$PROJECT_DIR$/02.3.3  循环双链表/02.3.3  循环双链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.4  多项式的表示及运算/02.4  多项式的表示及运算.iml" filepath="$PROJECT_DIR$/02.4  多项式的表示及运算/02.4  多项式的表示及运算.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2.2  常量字符串类String/03.2.2  常量字符串类String.iml" filepath="$PROJECT_DIR$/03.2.2  常量字符串类String/03.2.2  常量字符串类String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.2.3  变量字符串类StringBuffer/03.2.3  变量字符串类StringBuffer.iml" filepath="$PROJECT_DIR$/03.2.3  变量字符串类StringBuffer/03.2.3  变量字符串类StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.3  串的模式匹配/03.3  串的模式匹配.iml" filepath="$PROJECT_DIR$/03.3  串的模式匹配/03.3  串的模式匹配.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.1  栈/04.1  栈.iml" filepath="$PROJECT_DIR$/04.1  栈/04.1  栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.2  队列/04.2  队列.iml" filepath="$PROJECT_DIR$/04.2  队列/04.2  队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.3  优先队列/04.3  优先队列.iml" filepath="$PROJECT_DIR$/04.3  优先队列/04.3  优先队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.4  递归/04.4  递归.iml" filepath="$PROJECT_DIR$/04.4  递归/04.4  递归.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.1.2  多维数组 例5.1  矩阵类/05.1.2  多维数组 例5.1  矩阵类.iml" filepath="$PROJECT_DIR$/05.1.2  多维数组 例5.1  矩阵类/05.1.2  多维数组 例5.1  矩阵类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.2.2  稀疏矩阵的压缩存储/05.2.2  稀疏矩阵的压缩存储.iml" filepath="$PROJECT_DIR$/05.2.2  稀疏矩阵的压缩存储/05.2.2  稀疏矩阵的压缩存储.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.3   广义表/05.3   广义表.iml" filepath="$PROJECT_DIR$/05.3   广义表/05.3   广义表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3.2  二叉树的二叉链表实现/06.3.2  二叉树的二叉链表实现.iml" filepath="$PROJECT_DIR$/06.3.2  二叉树的二叉链表实现/06.3.2  二叉树的二叉链表实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.3.3  二叉树的三叉链表实现/06.3.3  二叉树的三叉链表实现.iml" filepath="$PROJECT_DIR$/06.3.3  二叉树的三叉链表实现/06.3.3  二叉树的三叉链表实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.4.2  中序线索二叉树/06.4.2  中序线索二叉树.iml" filepath="$PROJECT_DIR$/06.4.2  中序线索二叉树/06.4.2  中序线索二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.5  Huffman树/06.5  Huffman树.iml" filepath="$PROJECT_DIR$/06.5  Huffman树/06.5  Huffman树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.6.2  树的孩子兄弟链表实现/06.6.2  树的孩子兄弟链表实现.iml" filepath="$PROJECT_DIR$/06.6.2  树的孩子兄弟链表实现/06.6.2  树的孩子兄弟链表实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07  图/07  图.iml" filepath="$PROJECT_DIR$/07  图/07  图.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.2   基于线性表的查找/08.2   基于线性表的查找.iml" filepath="$PROJECT_DIR$/08.2   基于线性表的查找/08.2   基于线性表的查找.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.3  散列/08.3  散列.iml" filepath="$PROJECT_DIR$/08.3  散列/08.3  散列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.4.1  二叉排序树/08.4.1  二叉排序树.iml" filepath="$PROJECT_DIR$/08.4.1  二叉排序树/08.4.1  二叉排序树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.4.2  平衡二叉树/08.4.2  平衡二叉树.iml" filepath="$PROJECT_DIR$/08.4.2  平衡二叉树/08.4.2  平衡二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09  排序/09  排序.iml" filepath="$PROJECT_DIR$/09  排序/09  排序.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.1.1  Arrays数组类/10.1.1  Arrays数组类.iml" filepath="$PROJECT_DIR$/10.1.1  Arrays数组类/10.1.1  Arrays数组类.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.1.2  Java集合框架/10.1.2  Java集合框架.iml" filepath="$PROJECT_DIR$/10.1.2  Java集合框架/10.1.2  Java集合框架.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.1.2  例10.1 电话簿/10.1.2  例10.1 电话簿.iml" filepath="$PROJECT_DIR$/10.1.2  例10.1 电话簿/10.1.2  例10.1 电话簿.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.2   实现迭代器/10.2   实现迭代器.iml" filepath="$PROJECT_DIR$/10.2   实现迭代器/10.2   实现迭代器.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3.1  分治法/10.3.1  分治法.iml" filepath="$PROJECT_DIR$/10.3.1  分治法/10.3.1  分治法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3.2  动态规划法/10.3.2  动态规划法.iml" filepath="$PROJECT_DIR$/10.3.2  动态规划法/10.3.2  动态规划法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3.3  贪心法 1 背包问题/10.3.3  贪心法 1 背包问题.iml" filepath="$PROJECT_DIR$/10.3.3  贪心法 1 背包问题/10.3.3  贪心法 1 背包问题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3.3  贪心法 4 最小堆/10.3.3  贪心法 4 最小堆.iml" filepath="$PROJECT_DIR$/10.3.3  贪心法 4 最小堆/10.3.3  贪心法 4 最小堆.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3.3  贪心法 6 Kruskal算法/10.3.3  贪心法 6 Kruskal算法.iml" filepath="$PROJECT_DIR$/10.3.3  贪心法 6 Kruskal算法/10.3.3  贪心法 6 Kruskal算法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10.3.4  回溯法/10.3.4  回溯法.iml" filepath="$PROJECT_DIR$/10.3.4  回溯法/10.3.4  回溯法.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习01.2.3  算法设计/习01.2.3  算法设计.iml" filepath="$PROJECT_DIR$/习01.2.3  算法设计/习01.2.3  算法设计.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习02.2  排序顺序表/习02.2  排序顺序表.iml" filepath="$PROJECT_DIR$/习02.2  排序顺序表/习02.2  排序顺序表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习02.3.2  单链表/习02.3.2  单链表.iml" filepath="$PROJECT_DIR$/习02.3.2  单链表/习02.3.2  单链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习02.3.3  双链表/习02.3.3  双链表.iml" filepath="$PROJECT_DIR$/习02.3.3  双链表/习02.3.3  双链表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习03.2.2  常量字符串类String/习03.2.2  常量字符串类String.iml" filepath="$PROJECT_DIR$/习03.2.2  常量字符串类String/习03.2.2  常量字符串类String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习03.2.3  变量字符串类StringBuffer/习03.2.3  变量字符串类StringBuffer.iml" filepath="$PROJECT_DIR$/习03.2.3  变量字符串类StringBuffer/习03.2.3  变量字符串类StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习04.1  栈/习04.1  栈.iml" filepath="$PROJECT_DIR$/习04.1  栈/习04.1  栈.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习04.2  队列/习04.2  队列.iml" filepath="$PROJECT_DIR$/习04.2  队列/习04.2  队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习04.3  优先队列/习04.3  优先队列.iml" filepath="$PROJECT_DIR$/习04.3  优先队列/习04.3  优先队列.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习04.4  递归/习04.4  递归.iml" filepath="$PROJECT_DIR$/习04.4  递归/习04.4  递归.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习05.2.1  三角矩阵、对称矩阵和对角矩阵的压缩存储/习05.2.1  三角矩阵、对称矩阵和对角矩阵的压缩存储.iml" filepath="$PROJECT_DIR$/习05.2.1  三角矩阵、对称矩阵和对角矩阵的压缩存储/习05.2.1  三角矩阵、对称矩阵和对角矩阵的压缩存储.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习06.3.2  二叉树的二叉链表实现/习06.3.2  二叉树的二叉链表实现.iml" filepath="$PROJECT_DIR$/习06.3.2  二叉树的二叉链表实现/习06.3.2  二叉树的二叉链表实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习06.3.3  二叉树的三叉链表实现/习06.3.3  二叉树的三叉链表实现.iml" filepath="$PROJECT_DIR$/习06.3.3  二叉树的三叉链表实现/习06.3.3  二叉树的三叉链表实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习06.4.2  中序线索二叉树/习06.4.2  中序线索二叉树.iml" filepath="$PROJECT_DIR$/习06.4.2  中序线索二叉树/习06.4.2  中序线索二叉树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习06.6.4  树的父母孩子兄弟链表实现/习06.6.4  树的父母孩子兄弟链表实现.iml" filepath="$PROJECT_DIR$/习06.6.4  树的父母孩子兄弟链表实现/习06.6.4  树的父母孩子兄弟链表实现.iml" />
+      <module fileurl="file://$PROJECT_DIR$/习08.3  散列/习08.3  散列.iml" filepath="$PROJECT_DIR$/习08.3  散列/习08.3  散列.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,143 @@
+# Project exclude paths
+/01 绪论/bin/
+/02.2  顺序表/bin/
+/02.3.2  单链表/bin/
+/02.3.2  循环单链表/bin/
+/02.3.3  循环双链表/bin/
+/02.4  多项式的表示及运算/bin/
+/03.2.2  常量字符串类String/bin/
+/03.2.3  变量字符串类StringBuffer/bin/
+/03.3  串的模式匹配/bin/
+/04.1  栈/bin/
+/04.2  队列/bin/
+/04.3  优先队列/bin/
+/04.4  递归/bin/
+/05.1.2  多维数组 例5.1  矩阵类/bin/
+/05.2.2  稀疏矩阵的压缩存储/bin/
+/05.3   广义表/bin/
+/06.3.2  二叉树的二叉链表实现/bin/
+/06.3.3  二叉树的三叉链表实现/bin/
+/06.4.2  中序线索二叉树/bin/
+/06.5  Huffman树/bin/
+/06.6.2  树的孩子兄弟链表实现/bin/
+/07  图/bin/
+/08.2   基于线性表的查找/bin/
+/08.3  散列/bin/
+/08.4.1  二叉排序树/bin/
+/09  排序/bin/
+/10.1.1  Arrays数组类/bin/
+/10.1.2  Java集合框架/bin/
+/10.1.2  例10.1 电话簿/bin/
+/10.2   实现迭代器/bin/
+/10.3.1  分治法/bin/
+/10.3.2  动态规划法/bin/
+/10.3.3  贪心法 1 背包问题/bin/
+/10.3.3  贪心法 4 最小堆/bin/
+/10.3.3  贪心法 6 Kruskal算法/bin/
+/10.3.4  回溯法/bin/
+/习01.2.3  算法设计/bin/
+/习02.2  排序顺序表/bin/
+/习02.3.2  单链表/bin/
+/习02.3.3  双链表/bin/
+/习03.2.2  常量字符串类String/bin/
+/习03.2.3  变量字符串类StringBuffer/bin/
+/习04.1  栈/bin/
+/习04.2  队列/bin/
+/习05.2.1  三角矩阵、对称矩阵和对角矩阵的压缩存储/bin/
+/习06.3.2  二叉树的二叉链表实现/bin/
+/习06.3.3  二叉树的三叉链表实现/bin/
+/习06.4.2  中序线索二叉树/bin/
+/习06.6.4  树的父母孩子兄弟链表实现/bin/
+/习08.3  散列/bin/
+### Java template
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+### Eclipse template
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# CDT- autotools
+.autotools
+
+# Java annotation processor (APT)
+.factorypath
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# STS (Spring Tool Suite)
+.springBeans
+
+# Code Recommenders
+.recommenders/
+
+# Annotation Processing
+.apt_generated/
+.apt_generated_test/
+
+# Scala IDE specific (Scala & Java development for Eclipse)
+.cache-main
+.scala_dependencies
+.worksheet
+
+# Uncomment this line if you wish to ignore the project description file.
+# Typically, this file would be tracked if it contains build/dependency configurations:
+#.project
+
+/**/.classpath
+*.iml
+/**/.project
+*.url
+
